@@ -1,4 +1,4 @@
 # demo-new
 This is my repo
 <br>
-Author :- Ajinkya Rajendra Handore
+Author :- Ajinkya Rajendra Nivruttirao Handore
